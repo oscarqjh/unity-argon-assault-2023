@@ -8,7 +8,7 @@ This project is done as part of the **Complete C# Unity Game Developer 3D course
 
 ## How to play
 
-The goal of the game is to reach the landing pad (yellow) by maneuvering through the obstacles.
+The goal of the game is to shoot down enemies while dodging any obstacles in your path. Each hit on enemy grants you score, while colliding with any obstacles sets you back to spawn.
 
 The game is hosted [here](https://sharemygame.com/@Aerialguard/argon-assault),
 or alternatively, download the `.rar` from this github's releases to try out the game!
