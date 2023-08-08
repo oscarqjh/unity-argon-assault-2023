@@ -15,9 +15,9 @@ or alternatively, download the `.rar` from this github's releases to try out the
 
 ## Controls
 
-W or Space - boost upwards  
-A or Left Arrow - rotate left  
-D or Right Arrow - rotate right
+W, A, S, D - Move ship up, down, left, right
+Mouse 1(left click) - shoot
+Esc - exit game
 
 ## Features
 
